@@ -1,0 +1,70 @@
+C:\Users\Asus\source\repos\Figuras\Figuras\obj\Debug\Figuras.csproj.AssemblyReference.cache
+C:\Users\Asus\source\repos\Figuras\Figuras\obj\Debug\Figuras.frmRectangle.resources
+C:\Users\Asus\source\repos\Figuras\Figuras\obj\Debug\Figuras.Properties.Resources.resources
+C:\Users\Asus\source\repos\Figuras\Figuras\obj\Debug\Figuras.csproj.GenerateResource.cache
+C:\Users\Asus\source\repos\Figuras\Figuras\obj\Debug\Figuras.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\Figuras\Figuras\bin\Debug\Figuras.exe.config
+C:\Users\Asus\source\repos\Figuras\Figuras\bin\Debug\Figuras.exe
+C:\Users\Asus\source\repos\Figuras\Figuras\bin\Debug\Figuras.pdb
+C:\Users\Asus\source\repos\Figuras\Figuras\obj\Debug\Figuras.exe
+C:\Users\Asus\source\repos\Figuras\Figuras\obj\Debug\Figuras.pdb
+C:\Users\Asus\source\repos\Figuras\Figuras\obj\Debug\Figuras.frmSquare.resources
+C:\Users\Carlos Ñato\Downloads\Figuras\Figuras\Figuras\bin\Debug\Figuras.exe.config
+C:\Users\Carlos Ñato\Downloads\Figuras\Figuras\Figuras\bin\Debug\Figuras.exe
+C:\Users\Carlos Ñato\Downloads\Figuras\Figuras\Figuras\bin\Debug\Figuras.pdb
+C:\Users\Carlos Ñato\Downloads\Figuras\Figuras\Figuras\obj\Debug\Figuras.csproj.AssemblyReference.cache
+C:\Users\Carlos Ñato\Downloads\Figuras\Figuras\Figuras\obj\Debug\Figuras.frmRectangle.resources
+C:\Users\Carlos Ñato\Downloads\Figuras\Figuras\Figuras\obj\Debug\Figuras.Properties.Resources.resources
+C:\Users\Carlos Ñato\Downloads\Figuras\Figuras\Figuras\obj\Debug\Figuras.frmSquare.resources
+C:\Users\Carlos Ñato\Downloads\Figuras\Figuras\Figuras\obj\Debug\Figuras.Triangle.resources
+C:\Users\Carlos Ñato\Downloads\Figuras\Figuras\Figuras\obj\Debug\Figuras.csproj.GenerateResource.cache
+C:\Users\Carlos Ñato\Downloads\Figuras\Figuras\Figuras\obj\Debug\Figuras.csproj.CoreCompileInputs.cache
+C:\Users\Carlos Ñato\Downloads\Figuras\Figuras\Figuras\obj\Debug\Figuras.exe
+C:\Users\Carlos Ñato\Downloads\Figuras\Figuras\Figuras\obj\Debug\Figuras.pdb
+C:\Users\Carlos Ñato\Downloads\Figuras\Figuras\Figuras\obj\Debug\Figuras.Menu.resources
+C:\Users\Carlos Ñato\Downloads\Figuras\Figuras\Figuras\obj\Debug\Figuras.frmCircle.resources
+C:\Users\Carlos Ñato\Downloads\Figuras\Figuras\Figuras\obj\Debug\Figuras.frmElipse.resources
+C:\Users\CARLOS\Documents\Universidad\Figuras\Figuras\Figuras\bin\Debug\Figuras.exe.config
+C:\Users\CARLOS\Documents\Universidad\Figuras\Figuras\Figuras\bin\Debug\Figuras.exe
+C:\Users\CARLOS\Documents\Universidad\Figuras\Figuras\Figuras\bin\Debug\Figuras.pdb
+C:\Users\CARLOS\Documents\Universidad\Figuras\Figuras\Figuras\obj\Debug\Figuras.csproj.AssemblyReference.cache
+C:\Users\CARLOS\Documents\Universidad\Figuras\Figuras\Figuras\obj\Debug\Figuras.frmCircle.resources
+C:\Users\CARLOS\Documents\Universidad\Figuras\Figuras\Figuras\obj\Debug\Figuras.frmElipse.resources
+C:\Users\CARLOS\Documents\Universidad\Figuras\Figuras\Figuras\obj\Debug\Figuras.Menu.resources
+C:\Users\CARLOS\Documents\Universidad\Figuras\Figuras\Figuras\obj\Debug\Figuras.frmRectangle.resources
+C:\Users\CARLOS\Documents\Universidad\Figuras\Figuras\Figuras\obj\Debug\Figuras.Properties.Resources.resources
+C:\Users\CARLOS\Documents\Universidad\Figuras\Figuras\Figuras\obj\Debug\Figuras.frmSquare.resources
+C:\Users\CARLOS\Documents\Universidad\Figuras\Figuras\Figuras\obj\Debug\Figuras.Triangle.resources
+C:\Users\CARLOS\Documents\Universidad\Figuras\Figuras\Figuras\obj\Debug\Figuras.csproj.GenerateResource.cache
+C:\Users\CARLOS\Documents\Universidad\Figuras\Figuras\Figuras\obj\Debug\Figuras.csproj.CoreCompileInputs.cache
+C:\Users\CARLOS\Documents\Universidad\Figuras\Figuras\Figuras\obj\Debug\Figuras.exe
+C:\Users\CARLOS\Documents\Universidad\Figuras\Figuras\Figuras\obj\Debug\Figuras.pdb
+C:\Users\CARLOS\Documents\Universidad\Figuras\Figuras\Figuras\obj\Debug\Figuras.frmSemiCircle.resources
+C:\Users\CARLOS\Documents\Universidad\Figuras\Figuras\Figuras\obj\Debug\Figuras.frmTrapecio.resources
+C:\Users\CARLOS\Documents\Universidad\Figuras\Figuras\Figuras\obj\Debug\Figuras.frmTrapezoide.resources
+C:\Users\CARLOS\Documents\Universidad\Figuras\Figuras\Figuras\obj\Debug\Figuras.frmRombo.resources
+C:\Users\CARLOS\Documents\Universidad\Figuras\Figuras\Figuras\obj\Debug\Figuras.frmRomboide.resources
+C:\Users\CARLOS\Documents\Universidad\Figuras\Figuras\Figuras\obj\Debug\Figuras.frmDeltoide.resources
+C:\Users\CARLOS\Documents\Universidad\Figuras\Figuras\Figuras\obj\Debug\Figuras.frmEstrella.resources
+C:\Users\CARLOS\Documents\Universidad\QUINTO SEMESTRE\Computación Grafica\ComputacionGrafica\Figuras\Figuras\bin\Debug\Figuras.exe.config
+C:\Users\CARLOS\Documents\Universidad\QUINTO SEMESTRE\Computación Grafica\ComputacionGrafica\Figuras\Figuras\bin\Debug\Figuras.exe
+C:\Users\CARLOS\Documents\Universidad\QUINTO SEMESTRE\Computación Grafica\ComputacionGrafica\Figuras\Figuras\bin\Debug\Figuras.pdb
+C:\Users\CARLOS\Documents\Universidad\QUINTO SEMESTRE\Computación Grafica\ComputacionGrafica\Figuras\Figuras\obj\Debug\Figuras.csproj.AssemblyReference.cache
+C:\Users\CARLOS\Documents\Universidad\QUINTO SEMESTRE\Computación Grafica\ComputacionGrafica\Figuras\Figuras\obj\Debug\Figuras.frmCircle.resources
+C:\Users\CARLOS\Documents\Universidad\QUINTO SEMESTRE\Computación Grafica\ComputacionGrafica\Figuras\Figuras\obj\Debug\Figuras.frmDeltoide.resources
+C:\Users\CARLOS\Documents\Universidad\QUINTO SEMESTRE\Computación Grafica\ComputacionGrafica\Figuras\Figuras\obj\Debug\Figuras.frmElipse.resources
+C:\Users\CARLOS\Documents\Universidad\QUINTO SEMESTRE\Computación Grafica\ComputacionGrafica\Figuras\Figuras\obj\Debug\Figuras.frmEstrella.resources
+C:\Users\CARLOS\Documents\Universidad\QUINTO SEMESTRE\Computación Grafica\ComputacionGrafica\Figuras\Figuras\obj\Debug\Figuras.frmRombo.resources
+C:\Users\CARLOS\Documents\Universidad\QUINTO SEMESTRE\Computación Grafica\ComputacionGrafica\Figuras\Figuras\obj\Debug\Figuras.frmRomboide.resources
+C:\Users\CARLOS\Documents\Universidad\QUINTO SEMESTRE\Computación Grafica\ComputacionGrafica\Figuras\Figuras\obj\Debug\Figuras.frmSemiCircle.resources
+C:\Users\CARLOS\Documents\Universidad\QUINTO SEMESTRE\Computación Grafica\ComputacionGrafica\Figuras\Figuras\obj\Debug\Figuras.frmTrapecio.resources
+C:\Users\CARLOS\Documents\Universidad\QUINTO SEMESTRE\Computación Grafica\ComputacionGrafica\Figuras\Figuras\obj\Debug\Figuras.frmTrapezoide.resources
+C:\Users\CARLOS\Documents\Universidad\QUINTO SEMESTRE\Computación Grafica\ComputacionGrafica\Figuras\Figuras\obj\Debug\Figuras.Menu.resources
+C:\Users\CARLOS\Documents\Universidad\QUINTO SEMESTRE\Computación Grafica\ComputacionGrafica\Figuras\Figuras\obj\Debug\Figuras.frmRectangle.resources
+C:\Users\CARLOS\Documents\Universidad\QUINTO SEMESTRE\Computación Grafica\ComputacionGrafica\Figuras\Figuras\obj\Debug\Figuras.Properties.Resources.resources
+C:\Users\CARLOS\Documents\Universidad\QUINTO SEMESTRE\Computación Grafica\ComputacionGrafica\Figuras\Figuras\obj\Debug\Figuras.frmSquare.resources
+C:\Users\CARLOS\Documents\Universidad\QUINTO SEMESTRE\Computación Grafica\ComputacionGrafica\Figuras\Figuras\obj\Debug\Figuras.Triangle.resources
+C:\Users\CARLOS\Documents\Universidad\QUINTO SEMESTRE\Computación Grafica\ComputacionGrafica\Figuras\Figuras\obj\Debug\Figuras.csproj.GenerateResource.cache
+C:\Users\CARLOS\Documents\Universidad\QUINTO SEMESTRE\Computación Grafica\ComputacionGrafica\Figuras\Figuras\obj\Debug\Figuras.csproj.CoreCompileInputs.cache
+C:\Users\CARLOS\Documents\Universidad\QUINTO SEMESTRE\Computación Grafica\ComputacionGrafica\Figuras\Figuras\obj\Debug\Figuras.exe
+C:\Users\CARLOS\Documents\Universidad\QUINTO SEMESTRE\Computación Grafica\ComputacionGrafica\Figuras\Figuras\obj\Debug\Figuras.pdb
