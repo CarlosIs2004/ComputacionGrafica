@@ -21,7 +21,7 @@ namespace Figuras
         }
         public override void Perimeter()
         {
-            mPerimeter = (float)(2 * Math.PI * radius)/ 2;
+            mPerimeter = (float)((Math.PI * radius)+ 2*radius);
         }
 
         public override void PlotShape(PictureBox picCanvas) {

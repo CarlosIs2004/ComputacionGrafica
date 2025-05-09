@@ -41,9 +41,6 @@
             this.txtPerimeter = new System.Windows.Forms.TextBox();
             this.label7 = new System.Windows.Forms.Label();
             this.inputFigue = new System.Windows.Forms.Panel();
-            this.panel3 = new System.Windows.Forms.Panel();
-            this.label1 = new System.Windows.Forms.Label();
-            this.picCanvas = new System.Windows.Forms.PictureBox();
             this.panel1 = new System.Windows.Forms.Panel();
             this.menuStrip1 = new System.Windows.Forms.MenuStrip();
             this.poligonosRegularesToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
@@ -61,13 +58,16 @@
             this.circuloToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.elipseToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.semicirculoToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.panel3 = new System.Windows.Forms.Panel();
+            this.label1 = new System.Windows.Forms.Label();
+            this.picCanvas = new System.Windows.Forms.PictureBox();
             this.panel2.SuspendLayout();
             this.panel7.SuspendLayout();
             this.panel6.SuspendLayout();
-            this.panel3.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.picCanvas)).BeginInit();
             this.panel1.SuspendLayout();
             this.menuStrip1.SuspendLayout();
+            this.panel3.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.picCanvas)).BeginInit();
             this.SuspendLayout();
             // 
             // panel2
@@ -197,37 +197,6 @@
             this.inputFigue.Name = "inputFigue";
             this.inputFigue.Size = new System.Drawing.Size(284, 180);
             this.inputFigue.TabIndex = 0;
-            // 
-            // panel3
-            // 
-            this.panel3.Controls.Add(this.label1);
-            this.panel3.Controls.Add(this.picCanvas);
-            this.panel3.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.panel3.Location = new System.Drawing.Point(284, 32);
-            this.panel3.Name = "panel3";
-            this.panel3.Size = new System.Drawing.Size(516, 418);
-            this.panel3.TabIndex = 31;
-            // 
-            // label1
-            // 
-            this.label1.AutoSize = true;
-            this.label1.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label1.Location = new System.Drawing.Point(205, 12);
-            this.label1.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
-            this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(48, 15);
-            this.label1.TabIndex = 17;
-            this.label1.Text = "Figure";
-            // 
-            // picCanvas
-            // 
-            this.picCanvas.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.picCanvas.Location = new System.Drawing.Point(0, 0);
-            this.picCanvas.Name = "picCanvas";
-            this.picCanvas.Size = new System.Drawing.Size(516, 418);
-            this.picCanvas.TabIndex = 26;
-            this.picCanvas.TabStop = false;
-            this.picCanvas.Click += new System.EventHandler(this.picCanvas_Click);
             // 
             // panel1
             // 
@@ -367,6 +336,37 @@
             this.semicirculoToolStripMenuItem.Text = "Semicirculo";
             this.semicirculoToolStripMenuItem.Click += new System.EventHandler(this.semicirculoToolStripMenuItem_Click);
             // 
+            // panel3
+            // 
+            this.panel3.Controls.Add(this.label1);
+            this.panel3.Controls.Add(this.picCanvas);
+            this.panel3.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.panel3.Location = new System.Drawing.Point(284, 32);
+            this.panel3.Name = "panel3";
+            this.panel3.Size = new System.Drawing.Size(516, 418);
+            this.panel3.TabIndex = 31;
+            // 
+            // label1
+            // 
+            this.label1.AutoSize = true;
+            this.label1.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label1.Location = new System.Drawing.Point(205, 12);
+            this.label1.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
+            this.label1.Name = "label1";
+            this.label1.Size = new System.Drawing.Size(48, 15);
+            this.label1.TabIndex = 17;
+            this.label1.Text = "Figure";
+            // 
+            // picCanvas
+            // 
+            this.picCanvas.Dock = System.Windows.Forms.DockStyle.Fill;
+            this.picCanvas.Location = new System.Drawing.Point(0, 0);
+            this.picCanvas.Name = "picCanvas";
+            this.picCanvas.Size = new System.Drawing.Size(516, 418);
+            this.picCanvas.TabIndex = 26;
+            this.picCanvas.TabStop = false;
+            this.picCanvas.Click += new System.EventHandler(this.picCanvas_Click);
+            // 
             // Menu
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
@@ -383,20 +383,19 @@
             this.panel7.PerformLayout();
             this.panel6.ResumeLayout(false);
             this.panel6.PerformLayout();
-            this.panel3.ResumeLayout(false);
-            this.panel3.PerformLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.picCanvas)).EndInit();
             this.panel1.ResumeLayout(false);
             this.panel1.PerformLayout();
             this.menuStrip1.ResumeLayout(false);
             this.menuStrip1.PerformLayout();
+            this.panel3.ResumeLayout(false);
+            this.panel3.PerformLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.picCanvas)).EndInit();
             this.ResumeLayout(false);
 
         }
 
         #endregion
         private System.Windows.Forms.Panel panel2;
-        private System.Windows.Forms.Panel panel3;
         private System.Windows.Forms.Panel panel7;
         private System.Windows.Forms.Panel panel6;
         private System.Windows.Forms.Panel inputFigue;
@@ -409,8 +408,6 @@
         private System.Windows.Forms.Label label5;
         private System.Windows.Forms.TextBox txtArea;
         private System.Windows.Forms.TextBox txtPerimeter;
-        private System.Windows.Forms.Label label1;
-        private System.Windows.Forms.PictureBox picCanvas;
         private System.Windows.Forms.Panel panel1;
         private System.Windows.Forms.MenuStrip menuStrip1;
         private System.Windows.Forms.ToolStripMenuItem poligonosRegularesToolStripMenuItem;
@@ -428,5 +425,8 @@
         private System.Windows.Forms.ToolStripMenuItem elipseToolStripMenuItem;
         private System.Windows.Forms.ToolStripMenuItem semicirculoToolStripMenuItem;
         private System.Windows.Forms.ToolStripMenuItem romboideToolStripMenuItem;
+        private System.Windows.Forms.Panel panel3;
+        private System.Windows.Forms.Label label1;
+        private System.Windows.Forms.PictureBox picCanvas;
     }
 }

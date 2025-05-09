@@ -12,7 +12,7 @@ namespace Figuras
 {
     public partial class Menu : Form
     {
-        Form fn;
+        Form fn = null;
         Poligono poligono ;
         TextBox[] txtNames;
         public Menu()
@@ -95,7 +95,11 @@ namespace Figuras
 
         private void btnCalculate_Click(object sender, EventArgs e)
         {
-            if (fn.Name == "frmSquare")
+            if (fn == null) {
+                MessageBox.Show("Elije una de la opciones del menú ");
+                return;
+            }
+            else if (fn.Name == "frmSquare")
             {
                 poligono = new CSquare();
 
@@ -221,14 +225,19 @@ namespace Figuras
                 txtNames = new TextBox[] { txtRadioMayor, txtRadioMenor };
                 poligono.ReadData(txtNames);
 
-            
+
             }
             poligono.PrintData(txtPerimeter,txtArea);
-            poligono.PlotShape(picCanvas);
+            //poligono.PlotShape(picCanvas);
         }
 
         private void btnReset_Click(object sender, EventArgs e)
         {
+            if (fn == null) {
+                MessageBox.Show("No existe campos de ingreso, seleccione una opción del menú");
+                return;
+            }
+            AutoReset(txtNames);
             picCanvas.Refresh();
             
         }
@@ -255,6 +264,15 @@ namespace Figuras
             picCanvas.Refresh();
         }
 
-      
+        public void AutoReset(TextBox[] NameTexBoxes)
+        {
+            foreach (TextBox textBox in NameTexBoxes)
+            {
+                textBox.Text = "";
+            }
+
+        }
+
+
     }
 }
